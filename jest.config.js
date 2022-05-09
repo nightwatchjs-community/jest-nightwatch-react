@@ -24,7 +24,7 @@ module.exports = {
       }
     },
     testMatch: [
-       "**/test/src/*.[jt]s?(x)"
+       "**/test/src/formTest.[jt]s?(x)"
     ],
     slowTestThreshold: 15000000
   }
